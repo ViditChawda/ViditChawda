@@ -61,7 +61,6 @@
 
 <h3 align="center">📚 Latest Blog Posts</h3>
 
-<!-- Add your latest blog posts here using GitHub Actions or other methods -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -88,9 +87,9 @@
 </p>
 
 <h3 align="center">📈 GitHub Activity Graph</h3>
-
-<!-- Add your GitHub activity graph here -->
+<img src="https://activity-graph.herokuapp.com/graph?username=your_github_username&theme=dark" alt="gitHub Activity Graph" />
 
 <h3 align="center">🔥 GitHub Streak Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViditChawda&layout=compact&theme=dark" alt="gitHub Activity Graph" />
 
 <!-- Add your GitHub streak stats
