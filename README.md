@@ -21,11 +21,11 @@
 <h3 align="center">👨‍💻 About Me</h3>
 
 - 🔭 I’m currently working on personnel Portfolio(link-to-your-project).
-- 🌱 I’m currently learning Web developmet.
+- 🌱 I’m currently learning Web development.
 - 💬 Ask me about [Your Expertise or Interests].
 - 📫 How to reach me: Viditchawda301@gmail.com.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Passionate, Addaptive, Curious.
+- ⚡ Fun fact: Passionate, Adaptive, Curious.
 
 <h3 align="center">🚀 Tech Stack</h3>
 
@@ -76,4 +76,21 @@
     <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" height="40" width="40" />
   </a>
   <!-- Add more social media or contact icons here -->
+  <a href="https://www.instagram.com/your-instagram" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="40" width="40" />
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" height="40" width="40" />
+  </a>
+  <a href="https://medium.com/@your-medium" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/medium.png" alt="Medium" height="40" width="40" />
+  </a>
 </p>
+
+<h3 align="center">📈 GitHub Activity Graph</h3>
+
+<!-- Add your GitHub activity graph here -->
+
+<h3 align="center">🔥 GitHub Streak Stats</h3>
+
+<!-- Add your GitHub streak stats
