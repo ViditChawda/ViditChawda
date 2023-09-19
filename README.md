@@ -20,12 +20,12 @@
 
 <h3 align="center">👨‍💻 About Me</h3>
 
-- 🔭 I’m currently working on [Project Name](link-to-your-project).
-- 🌱 I’m currently learning [Technology or Framework].
+- 🔭 I’m currently working on personnel Portfolio(link-to-your-project).
+- 🌱 I’m currently learning Web developmet.
 - 💬 Ask me about [Your Expertise or Interests].
-- 📫 How to reach me: [Your Email Address].
+- 📫 How to reach me: Viditchawda301@gmail.com.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: [Fun Fact about Yourself].
+- ⚡ Fun fact: Passionate, Addaptive, Curious.
 
 <h3 align="center">🚀 Tech Stack</h3>
 
@@ -53,7 +53,7 @@
 <h3 align="center">🌟 Top Repositories</h3>
 
 <p align="center">
-  <a href="https://github.com/your-username/repo-name" target="_blank">
+  <a href="https://github.com/ViditChawda/repo-name" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViditChawda&repo=repo-name&theme=dark" alt="Top Repository" />
   </a>
   <!-- Add more top repositories as needed -->
