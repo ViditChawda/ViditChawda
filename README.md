@@ -86,11 +86,17 @@
   </a>
 </p>
 
+<h3 align="center">🔥 GitHub Streak Stats</h3>
+
 <p align="center">
-  <h3>🔥 GitHub Streak Stats</h3>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViditChawda&layout=compact&theme=dark" alt="gitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViditChawda&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
+<h3 align="center">📈 GitHub Activity Graph</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViditChawda&layout=compact&theme=dark" alt="GitHub Activity Graph" />
+</p>
 
 
 <!-- Add your GitHub streak stats
