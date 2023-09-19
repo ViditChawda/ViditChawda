@@ -98,5 +98,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViditChawda&layout=compact&theme=dark" alt="GitHub Activity Graph" />
 </p>
 
+<h3 align="center">🏆 GitHub Profile Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ViditChawda&theme=dark" alt="GitHub Profile Trophies"/>  
+</p>
+
 
 <!-- Add your GitHub streak stats
