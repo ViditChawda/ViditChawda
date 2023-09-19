@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://github.com/ViditChawda/repo-name" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViditChawda&repo=repo-name&theme=dark" alt="Top Repository" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViditChawda&repo=portfolio-final&theme=dark" alt="Top Repository" />
   </a>
   <!-- Add more top repositories as needed -->
 </p>
