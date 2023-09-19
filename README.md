@@ -87,7 +87,7 @@
 </p>
 
 <h3 align="center">📈 GitHub Activity Graph</h3>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=ViditChawda&theme=dark" alt="gitHub Activity Graph" />
+<img align="center" src="(https://activity-graph.herokuapp.com/graph?username=ViditChawda&theme=dark)" alt="gitHub Activity Graph" />
 
 <h3 align="center">🔥 GitHub Streak Stats</h3>
 <img aligin="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViditChawda&layout=compact&theme=dark" alt="gitHub Activity Graph" />
