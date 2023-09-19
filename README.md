@@ -87,9 +87,8 @@
 </p>
 
 <p align="center">
-  <h3 align="center">🔥 GitHub Streak Stats</h3>
-<img aligin="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViditChawda&layout=compact&theme=dark" alt="gitHub Activity Graph" />
-  <!-- Add more top repositories as needed -->
+  <h3>🔥 GitHub Streak Stats</h3>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViditChawda&layout=compact&theme=dark" alt="gitHub Activity Graph" />
 </p>
 
 
