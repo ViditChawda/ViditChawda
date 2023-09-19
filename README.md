@@ -5,14 +5,14 @@
   <img src="https://your-image-url-here.com" alt="Your Name" width="200" height="200">
 </p>
 
-<h1 align="center">Hey there! I'm Your Name 👋</h1>
-<h2 align="center">A Passionate Software Developer from Your Location 🌍</h2>
+<h1 align="center">Hey there! I'm Vidit Chawda 👋</h1>
+<h2 align="center">A Passionate Software Developer from India 🌍</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/vidit-chawda-b4a740210/)" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:your.viditchawda301@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" height="40" width="40" />
   </a>
   <!-- Add more social media or contact icons here -->
@@ -47,14 +47,14 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ViditChawda&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <h3 align="center">🌟 Top Repositories</h3>
 
 <p align="center">
   <a href="https://github.com/your-username/repo-name" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name&theme=dark" alt="Top Repository" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViditChawda&repo=repo-name&theme=dark" alt="Top Repository" />
   </a>
   <!-- Add more top repositories as needed -->
 </p>
@@ -72,7 +72,7 @@
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:your.viditchawda301@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" height="40" width="40" />
   </a>
   <!-- Add more social media or contact icons here -->
